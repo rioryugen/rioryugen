@@ -43,38 +43,80 @@ const rioryugen = {
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/rioryugen/sluggy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioryugen&repo=sluggy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700"/>
-  </a>
-  <a href="https://github.com/rioryugen/devpulse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioryugen&repo=devpulse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rioryugen/studyflash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioryugen&repo=studyflash&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700"/>
-  </a>
-  <a href="https://github.com/rioryugen/expense-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioryugen&repo=expense-cli&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rioryugen/DeckCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioryugen&repo=DeckCraft&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700"/>
-  </a>
-  <a href="https://github.com/rioryugen/Anthropic-Cybersecurity-Skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioryugen&repo=Anthropic-Cybersecurity-Skills&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| 🐌 **[sluggy](https://github.com/rioryugen/sluggy)** | VS Code extension that **cuts GitHub Copilot output tokens 36–85%**. Works with GPT, Claude, Gemini. | `TypeScript` `VS Code` `LLM` |
-| 📊 **[devpulse](https://github.com/rioryugen/devpulse)** | Developer productivity dashboard. Streaks, language stats, weekly reports across all your repos. | `Python` `Git` `CLI` |
-| 🧠 **[studyflash](https://github.com/rioryugen/studyflash)** | Terminal spaced-repetition flashcards from your markdown notes (SM-2 algorithm). | `Python` `CLI` |
-| 💰 **[expense-cli](https://github.com/rioryugen/expense-cli)** | Privacy-first expense tracker. CSV import, auto-categorize, budgets. **100% local.** | `Python` `CLI` |
-| 🎨 **[DeckCraft](https://github.com/rioryugen/DeckCraft)** | AI presentation generator. Idea → professional slide decks in seconds. | `JavaScript` `GPT` |
+### 🐌 [sluggy](https://github.com/rioryugen/sluggy)
+> VS Code extension that **cuts GitHub Copilot output tokens 36–85%**. Works with GPT, Claude, Gemini.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+[![stars](https://img.shields.io/github/stars/rioryugen/sluggy?style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/rioryugen/sluggy/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [devpulse](https://github.com/rioryugen/devpulse)
+> Developer productivity dashboard. Streaks, language stats, weekly reports across all your repos.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![stars](https://img.shields.io/github/stars/rioryugen/devpulse?style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/rioryugen/devpulse/stargazers)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [studyflash](https://github.com/rioryugen/studyflash)
+> Terminal spaced-repetition flashcards from your markdown notes. Powered by SM-2.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-4D4D4D?style=flat-square&logo=gnubash&logoColor=white)
+[![stars](https://img.shields.io/github/stars/rioryugen/studyflash?style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/rioryugen/studyflash/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [expense-cli](https://github.com/rioryugen/expense-cli)
+> Privacy-first expense tracker. CSV import, auto-categorize, budgets. **100% local.**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Privacy](https://img.shields.io/badge/-Privacy_First-2ea043?style=flat-square&logo=protonvpn&logoColor=white)
+[![stars](https://img.shields.io/github/stars/rioryugen/expense-cli?style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/rioryugen/expense-cli/stargazers)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [DeckCraft](https://github.com/rioryugen/DeckCraft)
+> AI presentation generator. Idea → professional slide decks in seconds with GPT.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+[![stars](https://img.shields.io/github/stars/rioryugen/DeckCraft?style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/rioryugen/DeckCraft/stargazers)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Anthropic-Cybersecurity-Skills](https://github.com/rioryugen/Anthropic-Cybersecurity-Skills)
+> 754 cybersecurity skills for AI agents. Mapped to MITRE ATT&CK, NIST, D3FEND.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/-Security-CC0000?style=flat-square&logo=hackthebox&logoColor=white)
+[![stars](https://img.shields.io/github/stars/rioryugen/Anthropic-Cybersecurity-Skills?style=flat-square&color=FFD700&labelColor=0d1117)](https://github.com/rioryugen/Anthropic-Cybersecurity-Skills/stargazers)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/rioryugen?tab=repositories">
+    <img src="https://img.shields.io/badge/➜_See_All_Repositories-00F7FF?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+  </a>
+</p>
 
 ---
 
