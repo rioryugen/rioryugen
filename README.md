@@ -1,12 +1,14 @@
 <!-- ====================  HEADER : Animated capsule + typing SVG  ==================== -->
 
+# rioryugen — Developer • AI Tools Builder • Open Source Maintainer
+
 <a href="https://github.com/rioryugen">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=260&section=header&text=rioryugen&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Developer%20%E2%80%A2%20AI%20Tools%20Builder%20%E2%80%A2%20Open%20Source&descSize=22&descAlignY=62" alt="header"/>
+  <img width="100%" alt="rioryugen GitHub profile banner - developer, AI tools builder, open source maintainer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=260&section=header&text=rioryugen&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Developer%20%E2%80%A2%20AI%20Tools%20Builder%20%E2%80%A2%20Open%20Source&descSize=22&descAlignY=62"/>
 </a>
 
 <p align="center">
   <a href="https://github.com/rioryugen">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hi%2C+I'm+rioryugen+%F0%9F%91%8B;I+build+AI+%2B+developer+productivity+tools.;Cutting+Copilot+tokens.+Automating+workflows.;Open+source.+Privacy-first.+Always+shipping." alt="Typing SVG"/>
+    <img alt="rioryugen typing intro - AI and developer productivity tools, Copilot token reduction, automation, open source, privacy-first" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hi%2C+I'm+rioryugen+%F0%9F%91%8B;I+build+AI+%2B+developer+productivity+tools.;Cutting+Copilot+tokens.+Automating+workflows.;Open+source.+Privacy-first.+Always+shipping."/>
   </a>
 </p>
 
@@ -159,21 +161,29 @@ const rioryugen = {
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rioryugen&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700&text_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rioryugen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FFD700&currStreakLabel=00F7FF"/>
+  <a href="https://github.com/rioryugen">
+    <img height="180" alt="rioryugen GitHub stats - developer tools, AI agents, open source contributions" src="https://github-readme-stats.vercel.app/api?username=rioryugen&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=FFD700&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/rioryugen">
+    <img height="180" alt="rioryugen GitHub commit streak - daily contributions" src="https://streak-stats.demolab.com?user=rioryugen&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FFD700&currStreakLabel=00F7FF"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rioryugen&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=10"/>
+  <a href="https://github.com/rioryugen">
+    <img alt="rioryugen top languages - Python, TypeScript, JavaScript, Go" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rioryugen&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&langs_count=10"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rioryugen&bg_color=0D1117&color=00F7FF&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
+  <a href="https://github.com/rioryugen">
+    <img alt="rioryugen GitHub contribution activity graph - open source developer" src="https://github-readme-activity-graph.vercel.app/graph?username=rioryugen&bg_color=0D1117&color=00F7FF&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=rioryugen%20Contribution%20Graph"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rioryugen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+    <img alt="rioryugen GitHub trophies and achievements" src="https://github-profile-trophy.vercel.app/?username=rioryugen&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
   </a>
 </p>
 
@@ -184,7 +194,7 @@ const rioryugen = {
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img alt="snake gif" src="https://raw.githubusercontent.com/rioryugen/rioryugen/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="rioryugen GitHub contribution snake animation - daily commit activity" src="https://raw.githubusercontent.com/rioryugen/rioryugen/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -221,9 +231,16 @@ const rioryugen = {
 <!-- ====================  FOOTER  ==================== -->
 
 <a href="https://github.com/rioryugen">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=130&section=footer&animation=fadeIn"/>
+  <img width="100%" alt="rioryugen profile footer - developer tools, AI agents, open source GitHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=130&section=footer&animation=fadeIn"/>
 </a>
 
 <sub>
-<b>Keywords:</b> developer tools · GitHub Copilot · AI agents · LLM productivity · token reduction · spaced repetition · CLI tools · privacy-first software · Python developer · TypeScript developer · VS Code extension developer · open source maintainer · automation · GitHub follower automation · AI presentation generator · personal finance CLI
+<b>About:</b> rioryugen is an open-source developer and AI tools builder. Featured projects include
+<a href="https://github.com/rioryugen/sluggy">sluggy</a> (a VS Code extension that cuts GitHub Copilot output tokens 36–85% and works with GPT, Claude, and Gemini),
+<a href="https://github.com/rioryugen/devpulse">devpulse</a> (a developer productivity dashboard for git history),
+<a href="https://github.com/rioryugen/studyflash">studyflash</a> (terminal spaced-repetition flashcards using the SM-2 algorithm),
+<a href="https://github.com/rioryugen/expense-cli">expense-cli</a> (a privacy-first expense tracker that runs 100% locally),
+and <a href="https://github.com/rioryugen/DeckCraft">DeckCraft</a> (an AI-powered presentation generator).
+<br/><br/>
+<b>Keywords:</b> developer tools · GitHub Copilot · AI agents · LLM productivity · token reduction · spaced repetition · CLI tools · privacy-first software · Python developer · TypeScript developer · VS Code extension developer · open source maintainer · automation · GitHub follower automation · AI presentation generator · personal finance CLI · Claude · GPT · Gemini · LangChain · RAG · MITRE ATT&CK · cybersecurity skills · markdown flashcards · git analytics · terminal apps
 </sub>
